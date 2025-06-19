@@ -24,7 +24,6 @@ class Solution:
 
 ```
 
-
 Time Complexity - O(N + log MOD) \
 Space Complexity - O(N)
 ### Approach - 02 ( Optimal Solution )
